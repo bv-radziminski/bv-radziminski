@@ -40,5 +40,5 @@ Starting a B.Sc. in Business Informatics (Wirtschaftsinformatik) at FernUniversi
 Full list and progress: [learning-path](https://github.com/bv-radziminski/learning-path)
 
 ## 🤝 Connect
-[LinkedIn] (https://www.linkedin.com/in/benedikt-von-radziminski/)
+[LinkedIn](https://www.linkedin.com/in/benedikt-von-radziminski/)
 
